@@ -1,4 +1,4 @@
-  # Mongoose Social Network API
+  # budget_tracker_pwa
   
   ![MIT License](https://img.shields.io/static/v1?label=License&message=MIT%20License&color=green)
   
